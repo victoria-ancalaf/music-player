@@ -45,7 +45,7 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 .track {
-  background: violet;
+  background: rgb(149, 145, 149);
   width: 100%;
   height: 1rem;
   position: relative;
@@ -64,3 +64,11 @@ input[type="range"]::-webkit-slider-thumb {
     pointer-events: none;
 }
 
+@media screen and (max-width: 768px){
+  .time-control {
+    width: 90%;
+  }
+  .play-control {
+    width: 60%;
+  }
+}

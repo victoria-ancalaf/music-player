@@ -1,6 +1,6 @@
 # Music Player App
 
-Music player application using React & Sass.
+Responsive web application with React & Sass.
 
 https://victoria-ancalaf.github.io/music-player/
 
